@@ -233,6 +233,4 @@ The modular design allows for easy maintenance and future expansion, making it a
 
 ---
 
-## **Author**
-
-Mahenazbanu
+## **Author:** Mahenazbanu
