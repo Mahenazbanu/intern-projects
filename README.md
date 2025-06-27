@@ -35,6 +35,9 @@ pip install cryptography PyQt5
 ```
 
 ---
+key generation python script:
+
+python3 -c "from cryptography.hazmat.primitives.ciphers.algorithms import AES; import os; key = os.urandom(32); open('secret.key', 'wb').write(key); print('Key generated!')"
 
 ## 📁 Project Structure
 
